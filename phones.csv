@@ -1,0 +1,66 @@
+Make,Model,Year,Shape,Camera,Videocamera,Internet,Music,Games,Keyboard,Image
+Nokia,5510,2001,Taco,No,No,Yes,Yes,Yes,QWERTY,p01.png
+Nokia,9210 Communicator,2001,Clamshell,No,No,Yes,Yes,Yes,"Number pad, QWERTY",p02.png
+Nokia,3300,2003,Taco,No,No,Yes,Yes,Yes,QWERTY,p03.png
+Nokia,6800,2003,Bar,No,No,Yes,Yes,Yes,"Number pad, QWERTY",p04.png
+Nokia,6810,2003,Bar,No,No,Yes,Yes,Yes,"Number pad, QWERTY",p05.png
+Nokia,7600,2003,Bar,Yes,Yes,Yes,Yes,Yes,Number pad,p06.png
+NEC,E808,2003,Clamshell,Yes,Yes,Yes,Yes,Yes,QWERTY,p07.png
+Panasonic,G70,2003,Clamshell,No,No,Yes,No,Yes,Number pad,p08.png
+Motorola,MPx,2003,Clamshell,Yes,Yes,Yes,Yes,Yes,QWERTY,p09.png
+Nokia,N-Gage,2003,Taco,No,No,Yes,Yes,Yes,Number pad,p10.png
+Nokia,N-Gage QD,2003,Taco,No,No,Yes,No,Yes,Number pad,p11.png
+Haier,P5,2003,Tube,No,No,No,No,Yes,Number pad,p12.png
+Siemens,Xelibri 1,2003,Bar,No,No,No,No,No,Number pad,p13.png
+Siemens,Xelibri 2,2003,Bar,No,No,No,No,No,Number pad,p14.png
+Siemens,Xelibri 3,2003,Bar,No,No,No,No,No,None,p15.png
+Siemens,Xelibri 4,2003,Bar,No,No,No,No,No,Number pad,p16.png
+Siemens,Xelibri 5,2003,Bar,No,No,No,No,Yes,Number pad,p17.png
+Siemens,Xelibri 6,2003,Clamshell,No,No,No,No,Yes,Number pad,p18.png
+Siemens,Xelibri 7,2003,Clip,No,No,No,No,Yes,Number pad,p19.png
+Siemens,Xelibri 8,2003,Blob,No,No,No,Yes,No,None,p20.png
+Nokia,6820,2004,Bar,Yes,Yes,Yes,No,Yes,"Number pad, QWERTY",p21.png
+Nokia,7280,2004,Tube,Yes,No,Yes,Yes,No,None,p22.png
+Nokia,7710,2004,Taco,Yes,Yes,Yes,Yes,Yes,None,p23.png
+Nokia,9300 Communicator,2004,Clamshell,No,No,Yes,Yes,Yes,"Number pad, QWERTY",p24.png
+Nokia,9500 Communicator,2004,Clamshell,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p25.png
+HTC,Blue Angel,2004,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p26.png
+Haier,P6,2004,Tube,No,No,Yes,No,Yes,Number pad,p27.png
+Haier,P7,2004,Tube,Yes,No,Yes,No,Yes,Number pad,p28.png
+Sony Ericsson,P910,2004,Bar,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p29.png
+Nokia,6822,2005,Bar,Yes,Yes,Yes,No,Yes,"Number pad, QWERTY",p30.png
+Nokia,7380,2005,Tube,Yes,Yes,Yes,Yes,No,None,p31.png
+HTC,Apache,2005,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p32.png
+Nokia,N90,2005,Clamshell,Yes,Yes,Yes,Yes,Yes,Number pad,p33.png
+Samsung,Serene,2005,Clamshell,Yes,Yes,Yes,No,Yes,Number pad,p34.png
+HTC,Universal,2005,Clamshell,Yes,Yes,Yes,Yes,Yes,QWERTY,p35.png
+BenQ,Z2,2005,Square,Yes,No,Yes,Yes,Yes,Number pad,p36.png
+E-Ten,Glofiish M700,2006,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p37.png
+HTC,P4350,2006,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p38.png
+HTC,TyTn,2006,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p39.png
+Nokia,E90 Communicator,2007,Clamshell,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p40.png
+Samsung,F700,2007,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p41.png
+LG,Rumor,2007,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p42.png
+HTC,S710,2007,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p43.png
+HTC,S730,2007,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p44.png
+Motorola,Sidekick Slide Q700,2007,Slide,Yes,No,Yes,Yes,Yes,QWERTY,p45.png
+HTC,TyTn II,2007,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p46.png
+HTC,Dream,2008,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p47.png
+Toshiba,G450,2008,Bar,No,No,Yes,Yes,Yes,Number pad,p48.png
+LG,KS360,2008,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p49.png
+Nokia,N97,2008,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p50.png
+LG,Rumor 2,2008,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p51.png
+HTC,S740,2008,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p52.png
+HTC,Touch Pro,2008,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p53.png
+Nokia,5730 XpressMusic,2009,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p54.png
+Nokia,6760 Slide,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p55.png
+Samsung,A877 Impression,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p56.png
+Samsung,B3310,2009,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p57.png
+Samsung,B5310,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p58.png
+Motorola,Cliq,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p59.png
+Nokia,E75,2009,Slide,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p60.png
+LG,GW820 eXpo,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p61.png
+Pantech,Impact,2009,Clamshell,Yes,Yes,Yes,Yes,Yes,"Number pad, QWERTY",p62.png
+Motorola,Droid,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p63.png
+Nokia,N900,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p64.png
+HTC,Touch Pro 2,2009,Slide,Yes,Yes,Yes,Yes,Yes,QWERTY,p65.png

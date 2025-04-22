@@ -1,0 +1,181 @@
+html {
+    font-size: 110%;
+    box-sizing: border-box;
+  }
+  * {
+    box-sizing: inherit;
+}  
+body {
+    background: #fff;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+h1, h2, h4 {
+    font-family: "Inter", "Helvetica", sans-serif;
+    font-weight: 800;
+    padding: 0 2rem;
+}
+ p {
+    font-family: "Inter", "Helvetica", sans-serif;
+    margin: 2rem 20%;
+    line-height: 2;
+ }
+
+footer {
+    padding: 1rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid #000;
+}
+
+#database {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    max-width: 100%;
+}
+
+#database img {
+    width: 100%;
+    height: auto;
+}
+
+
+#container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-start;
+    margin: 1rem;
+}
+
+#image {
+    flex: 1;
+    margin-right: 2rem;
+}
+
+#image img {
+    width: 100%;
+    height: auto;
+}
+
+#info {
+    flex: 1; 
+    margin: 1rem;
+    border-left: solid 2px;
+    padding-left: 2rem;
+
+}
+
+#info h2, ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 1rem 2rem;
+    font-weight: 800;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+nav ul li {
+    margin: 0;
+    margin-right: 2rem;
+}
+
+ul li {
+    list-style-type: none;
+    font-family: "Inter", "Helvetica", sans-serif;
+}
+
+ul li h4 {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+
+  @media screen and (max-width: 700px) {
+    #container {
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    #image {
+        padding: 0; 
+        margin: 0;
+        border-bottom: solid 2px;
+    }
+
+    #info {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
+    #database {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    p {
+        margin: 1.5rem;
+    }
+
+    nav ul {
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 1rem;
+
+    }
+
+    nav ul li {
+        margin-right: 0.5rem;
+    }
+
+    footer {
+        padding: 0;
+        margin: 0;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+}

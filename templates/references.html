@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>References</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    <body>
+        <header>
+            <h4>In the gap between the flip phone and the smartphone,
+                <br>a small era in electronics evolution
+                </h4>
+            <h1>The Awkward Years</h1>
+        <h4>a digital history database</h4>
+        </h4>
+        </header>
+        
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('index') }}">Gallery</a></li>
+                <li><a href="{{ url_for('about') }}">About the project</a></li>
+                <li><a href="{{ url_for('references') }}">References</a></li>
+            </ul>
+        </nav>
+
+        <p>
+        The data for this project was taken from <a href="https://www.gsmarena.com/" target="_blank">GSMArena</a>, the <a href="https://www.mobilephonemuseum.com/" target="_blank">Mobile Phone Museum</a>, <a href="https://www.phonescoop.com/" target="_blank">Phone Scoop</a>, and sometimes the <a href="https://lpcwiki.miraheze.org/wiki/Main_Page" target="_blank">Legacy Portable Computing Wiki</a>. Data from individual sites was often incomplete or inconsistent, so sites were usually thoroughly cross-referenced for each individual entry. 
+        <br>
+        <br>
+        Photos used are either from <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank">Wikimedia Commons</a>, the <a href="https://www.mobilephonemuseum.com/" target="_blank">Mobile Phone Museum</a>, or original sales photos from phone brands. Minimal editing for image consistency was done with <a href="https://www.canva.com/" target="_blank">Canva</a> and <a href="https://www.remove.bg/" target="_blank">remove.bg</a>.
+        <br>
+        <br>
+        The design of this site  was inspired by the website of artist <a href="https://www.yoshitomonara.org/en" target="_blank">Yoshitomo Nara</a>. Custom scrollbar code is from <a href="https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp" target="_blank">W3Schools</a>.
+        </p>
+
+        <footer>
+            <h4>This project was made by Maija Chover. Take a look at the GitHub page <a href="" target="_blank">here</a>.    
+            </h4>
+        </footer>
+    </body>
+    </html>
